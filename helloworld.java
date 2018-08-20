@@ -18,7 +18,6 @@ public class CallingMethodsInSameClass
 
 	public static void printTwo() {
 		printOne();
-/		printOne();
               System.out.println("Hi hello");
 	}
 }
