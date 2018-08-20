@@ -18,7 +18,8 @@ public class CallingMethodsInSameClass
 
 	public static void printTwo() {
 		printOne();
-/		printOne();
+		printOne();
+              System.out.println("this is first brach");
               System.out.println("Hi hello");
 	}
 }
